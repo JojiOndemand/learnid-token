@@ -1,0 +1,10 @@
+.btn {
+    background-color: var(--figma-colors-black-900);
+    padding: 0.5rem 1.5rem;
+    color: var(--figma-global-colors-blue-500);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 0.25rem;
+  }
+ 
