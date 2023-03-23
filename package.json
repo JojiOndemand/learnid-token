@@ -6,11 +6,13 @@
     "type": "module",
     "homepage": "{{ homepage }}",
     "scripts": {
-      "serve": "npx backlight@latest serve qNRvLo5ZBbyNHHc0M0Cb --open"
+        "serve": "npx backlight@latest serve t8jl3YuSPm3kYJZNEwBy --open"
     },
     "devDependencies": {
-      "@divriots/dockit-core": "^0.9.4",
-      "lit": "^2.2.2"
+        "@divriots/dockit-core": "^0.9.4",
+        "lit": "^2.2.2"
     },
-    "dependencies": {}
-  }
+    "dependencies": {
+        "token-transformer": "^0.0.30"
+    }
+}

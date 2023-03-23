@@ -1,0 +1,72 @@
+/**
+ * Do not edit directly, this file was auto-generated
+ */
+
+:root {
+  --figma-colors-white: #ffffff;
+  --figma-colors-bg: #fafafa;
+  --figma-colors-blue-100: #e8f2fa;
+  --figma-colors-blue-200: #b9d8f0;
+  --figma-colors-blue-300: #8abee6;
+  --figma-colors-blue-400: #5ca4dc;
+  --figma-colors-blue-500: #5ca4dc;
+  --figma-colors-blue-600: #236ba3;
+  --figma-colors-blue-700: #194d75;
+  --figma-colors-blue-800: #0f2e46;
+  --figma-colors-blue-900: #050f17;
+  --figma-colors-black-100: #f1f1f1;
+  --figma-colors-black-200: #d4d4d4;
+  --figma-colors-black-300: #b8b8b8;
+  --figma-colors-black-400: #9c9c9c;
+  --figma-colors-black-500: #808080;
+  --figma-colors-black-600: #636363;
+  --figma-colors-black-700: #474747;
+  --figma-colors-black-800: #2a2a2a;
+  --figma-colors-black-900: #0e0e0e;
+  --figma-colors-red-100: #ffe8e3;
+  --figma-colors-red-200: #ffbaaa;
+  --figma-colors-red-300: #ff8b71;
+  --figma-colors-red-400: #ff5d39;
+  --figma-colors-red-500: #ff2f00;
+  --figma-colors-red-600: #c62400;
+  --figma-colors-red-700: #8e1a00;
+  --figma-colors-red-800: #551000;
+  --figma-colors-red-900: #1c0500;
+  --figma-colors-red-odemand-100: #fbe7e8;
+  --figma-colors-red-odemand-200: #f2b7b9;
+  --figma-colors-red-odemand-300: #ea878a;
+  --figma-colors-red-odemand-400: #e1565c;
+  --figma-colors-red-odemand-500: #d9262d;
+  --figma-colors-red-odemand-600: #a91e23;
+  --figma-colors-red-odemand-700: #781519;
+  --figma-colors-red-odemand-800: #480d0f;
+  --figma-colors-red-odemand-900: #180405;
+  --figma-button-primary-background: #236ba3;
+  --figma-button-primary-text: #ffffff;
+  --figma-button-disabled-background: #f1f1f1;
+  --figma-button-disabled-text: #808080;
+  --figma-subbutton-primary-background: #d9262d;
+  --figma-subbutton-primary-text: #ffffff;
+  --figma-subbutton-disabled-background: #f1f1f1;
+  --figma-subbutton-disabled-text: #808080;
+  --figma-font-families-noto-sans: Noto Sans;
+  --figma-line-heights-0: AUTO;
+  --figma-font-weights-noto-sans-0: Bold;
+  --figma-font-weights-noto-sans-1: Regular;
+  --figma-font-size-0: 14;
+  --figma-font-size-1: 16;
+  --figma-font-size-2: 18;
+  --figma-font-size-3: 20;
+  --figma-font-size-4: 24;
+  --figma-letter-spacing-0: 0%;
+  --figma-paragraph-spacing-0: 0;
+  --figma-typography-h1-bold: [object Object];
+  --figma-typography-h2-bold: [object Object];
+  --figma-typography-h3-bold: [object Object];
+  --figma-typography-body-regular: [object Object];
+  --figma-typography-body-bold: [object Object];
+  --figma-typography-sm-regular: [object Object];
+  --figma-text-case-none: none;
+  --figma-text-decoration-none: none;
+  --figma-paragraph-indent-0: 0px;
+}

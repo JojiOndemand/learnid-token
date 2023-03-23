@@ -7,30 +7,43 @@ import './styles.css';
 import '~/tokens/variables.css';
 ```
 
-## Core
+## Global
 
-### Primary colors
+### blue colors
 
 Primary colors of our brand.
 
 ```js story
 export const primary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--figma-core-colors-primary"
+    css-props-prefix="--figma-colors-blue"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
 `;
 ```
 
-### Grey colors
+### Black colors
 
-Secondary colors of our brand.
+Black colors of our brand.
 
 ```js story
-export const secondary = () => html`
+export const black = () => html`
   <dockit-css-showcases
-    css-props-prefix="--figma-core-colors-grey"
+    css-props-prefix="--figma-colors-black"
+    component-class="box"
+    style-key="background-color"
+  ></dockit-css-showcases>
+`;
+```
+
+### Red colors
+
+Red colors of out brand.
+```js story
+export const red = () => html`
+  <dockit-css-showcases
+    css-props-prefix="--figma-colors-red"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
