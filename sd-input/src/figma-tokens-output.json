@@ -334,82 +334,6 @@
         "type": "dimension"
       }
     }
-  },
-  "ondemand": {
-    "colors": {
-      "brand": {
-        "red": {
-          "value": "#D9272E",
-          "type": "color"
-        }
-      },
-      "button": {
-        "primary": {
-          "background": {
-            "value": "{colors.brand.red}",
-            "type": "color"
-          },
-          "contrastText": {
-            "value": "{colors.common.white}",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "background": {
-            "value": "{colors.black.100}",
-            "type": "color"
-          },
-          "contrastText": {
-            "value": "{colors.black.200}",
-            "type": "color"
-          }
-        }
-      },
-      "text": {
-        "dark": {
-          "primary": {
-            "value": "{colors.black.900}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "button": {
-      "borderRadius": {
-        "sm": {
-          "value": {
-            "width": "4px"
-          },
-          "type": "border"
-        },
-        "lg": {
-          "value": {
-            "width": "8px"
-          },
-          "type": "border"
-        },
-        "xl": {
-          "value": {
-            "width": "16px"
-          },
-          "type": "border"
-        }
-      }
-    },
-    "typography": {
-      "h1": {
-        "blod": {
-          "value": {
-            "fontFamily": "{fontFamilies.noto-sans}",
-            "fontWeight": "{fontWeights.noto-sans-0}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.4}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textDecoration": "{textDecoration.none}",
-            "textCase": "{textCase.none}"
-          },
-          "type": "typography"
         }
       }
     }
@@ -421,6 +345,10 @@
       "global",
       "ondemand",
       "learnid"
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
     ]
   }
 }
