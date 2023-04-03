@@ -3,8 +3,14 @@
  */
 
 :root {
-  --figma-colors-white: #ffffff;
-  --figma-colors-bg: #fafafa;
+  --figma-colors-brand-red: #D9272E;
+  --figma-colors-button-primary-background: #D9272E;
+  --figma-colors-button-primary-contrast-text: #ffffff;
+  --figma-colors-button-disabled-background: #f1f1f1;
+  --figma-colors-button-disabled-contrast-text: #d4d4d4;
+  --figma-colors-text-dark-primary: #0e0e0e;
+  --figma-colors-common-white: #ffffff;
+  --figma-colors-common-black: #000000;
   --figma-colors-blue-100: #e8f2fa;
   --figma-colors-blue-200: #b9d8f0;
   --figma-colors-blue-300: #8abee6;
@@ -23,6 +29,15 @@
   --figma-colors-black-700: #474747;
   --figma-colors-black-800: #2a2a2a;
   --figma-colors-black-900: #0e0e0e;
+  --figma-colors-grey-100: #f9fafb;
+  --figma-colors-grey-200: #f4f6f8;
+  --figma-colors-grey-300: #dfe3e8;
+  --figma-colors-grey-400: #c4cdd5;
+  --figma-colors-grey-500: #919eab;
+  --figma-colors-grey-600: #637381;
+  --figma-colors-grey-700: #454f5b;
+  --figma-colors-grey-800: #212b36;
+  --figma-colors-grey-900: #161c24;
   --figma-colors-red-100: #ffe8e3;
   --figma-colors-red-200: #ffbaaa;
   --figma-colors-red-300: #ff8b71;
@@ -32,23 +47,16 @@
   --figma-colors-red-700: #8e1a00;
   --figma-colors-red-800: #551000;
   --figma-colors-red-900: #1c0500;
-  --figma-colors-red-odemand-100: #fbe7e8;
-  --figma-colors-red-odemand-200: #f2b7b9;
-  --figma-colors-red-odemand-300: #ea878a;
-  --figma-colors-red-odemand-400: #e1565c;
-  --figma-colors-red-odemand-500: #d9262d;
-  --figma-colors-red-odemand-600: #a91e23;
-  --figma-colors-red-odemand-700: #781519;
-  --figma-colors-red-odemand-800: #480d0f;
-  --figma-colors-red-odemand-900: #180405;
-  --figma-button-primary-background: #236ba3;
-  --figma-button-primary-text: #ffffff;
-  --figma-button-disabled-background: #f1f1f1;
-  --figma-button-disabled-text: #808080;
-  --figma-subbutton-primary-background: #d9262d;
-  --figma-subbutton-primary-text: #ffffff;
-  --figma-subbutton-disabled-background: #f1f1f1;
-  --figma-subbutton-disabled-text: #808080;
+  --figma-button-border-radius-sm: [object Object];
+  --figma-button-border-radius-lg: [object Object];
+  --figma-button-border-radius-xl: [object Object];
+  --figma-typography-h1-blod: [object Object];
+  --figma-typography-h1-bold: [object Object];
+  --figma-typography-h2-bold: [object Object];
+  --figma-typography-h3-bold: [object Object];
+  --figma-typography-body-regular: [object Object];
+  --figma-typography-body-bold: [object Object];
+  --figma-typography-sm-regular: [object Object];
   --figma-font-families-noto-sans: Noto Sans;
   --figma-line-heights-0: AUTO;
   --figma-font-weights-noto-sans-0: Bold;
@@ -60,13 +68,10 @@
   --figma-font-size-4: 24;
   --figma-letter-spacing-0: 0%;
   --figma-paragraph-spacing-0: 0;
-  --figma-typography-h1-bold: [object Object];
-  --figma-typography-h2-bold: [object Object];
-  --figma-typography-h3-bold: [object Object];
-  --figma-typography-body-regular: [object Object];
-  --figma-typography-body-bold: [object Object];
-  --figma-typography-sm-regular: [object Object];
   --figma-text-case-none: none;
   --figma-text-decoration-none: none;
   --figma-paragraph-indent-0: 0px;
+  --figma-token-set-order-0: global;
+  --figma-token-set-order-1: ondemand;
+  --figma-token-set-order-2: learnid;
 }
